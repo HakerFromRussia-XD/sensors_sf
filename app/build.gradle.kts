@@ -4,7 +4,8 @@ plugins {
 
 android {
     namespace = "com.example.sensors_sf"
-    compileSdk = 33
+    compileSdk = 34
+
 
     defaultConfig {
         applicationId = "com.example.sensors_sf"
